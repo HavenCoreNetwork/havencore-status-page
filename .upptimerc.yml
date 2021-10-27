@@ -1,0 +1,53 @@
+# Change these first
+owner: HavenCoreNetwork # Your GitHub organization or username, where this repository lives
+repo: havencore-status-page # The name of this repository
+
+sites:
+  - name: Mojang Multiplayer Session Service
+    url: http://session.minecraft.net
+    expectedStatusCodes:
+      - 401
+  - name: Mojang Authserver
+    url: https://authserver.mojang.com/
+  - name: Minecraft Skins
+    url: https://textures.minecraft.net
+  - name: "Mojang's Public API"
+    url: https://api.mojang.com/
+  - name: Minecraft.net website
+    url: https://www.minecraft.net/en-us
+  - name: Mojang Accounts Website
+    url: https://account.mojang.com/
+  - name: Microsoft OAuth Server
+    url: https://login.microsoftonline.com/consumers/oauth2/v2.0/token
+  - name: Xbox Live auth server
+    url: https://user.auth.xboxlive.com/user/authenticate
+    expectedStatusCodes:
+      - 405
+  - name: Xbox Live Gatekeeper
+    url: https://xsts.auth.xboxlive.com/xsts/authorize
+    expectedStatusCodes:
+      - 405
+  - name: Microsoft Minecraft API
+    url: https://api.minecraftservices.com/authentication/login_with_xbox
+    expectedStatusCodes:
+      - 401
+  - name: Microsoft Minecraft Profile
+    url: https://api.minecraftservices.com/minecraft/profile
+    expectedStatusCodes:
+      - 401
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: HavenCoreNetwork.github.io
+  baseUrl: /havencore-status-page
+  logoUrl: https://github.com/HavenCoreNetwork/HavenCoreLauncher/raw/master/assets/SealCircle.png
+  name: HavenCore Status Page
+  introTitle: "This page is used by the HavenCore Launcher to get Mojang status."
+  introMessage: We are not Mojang/Microsoft
+  navbar:
+    - title: Home
+      href: /havencore-status-page
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
