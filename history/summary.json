@@ -166,35 +166,39 @@
     "url": "https://api.minecraftservices.com/authentication/login_with_xbox",
     "icon": "https://favicons.githubusercontent.com/api.minecraftservices.com",
     "slug": "microsoft-minecraft-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 163,
-    "timeWeek": 292,
-    "timeMonth": 297,
-    "timeYear": 286,
-    "dailyMinutesDown": {}
+    "time": 287,
+    "timeDay": 264,
+    "timeWeek": 301,
+    "timeMonth": 299,
+    "timeYear": 287,
+    "dailyMinutesDown": {
+      "2021-12-26": 0
+    }
   },
   {
     "name": "Microsoft Minecraft Profile",
     "url": "https://api.minecraftservices.com/minecraft/profile",
     "icon": "https://favicons.githubusercontent.com/api.minecraftservices.com",
     "slug": "microsoft-minecraft-profile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 37,
-    "timeDay": 8,
-    "timeWeek": 30,
-    "timeMonth": 38,
+    "timeDay": 38,
+    "timeWeek": 35,
+    "timeMonth": 39,
     "timeYear": 37,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-26": 0
+    }
   }
 ]
