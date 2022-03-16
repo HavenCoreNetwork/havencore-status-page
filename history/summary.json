@@ -4,11 +4,11 @@
     "url": "http://session.minecraft.net",
     "icon": "https://favicons.githubusercontent.com/session.minecraft.net",
     "slug": "mojang-multiplayer-session-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 284,
     "timeDay": 55,
@@ -16,6 +16,7 @@
     "timeMonth": 133,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2022-03-16": 9,
       "2022-01-18": 21
     }
   },
@@ -24,18 +25,20 @@
     "url": "https://authserver.mojang.com/",
     "icon": "https://favicons.githubusercontent.com/authserver.mojang.com",
     "slug": "mojang-authserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 142,
     "timeDay": 162,
     "timeWeek": 133,
     "timeMonth": 142,
     "timeYear": 142,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-16": 8
+    }
   },
   {
     "name": "Minecraft Skins",
@@ -60,29 +63,31 @@
     "url": "https://api.mojang.com/",
     "icon": "https://favicons.githubusercontent.com/api.mojang.com",
     "slug": "mojang-s-public-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 126,
     "timeDay": 212,
     "timeWeek": 141,
     "timeMonth": 129,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-16": 6
+    }
   },
   {
     "name": "Minecraft.net website",
     "url": "https://www.minecraft.net/en-us",
     "icon": "https://favicons.githubusercontent.com/www.minecraft.net",
     "slug": "minecraft-net-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 668,
     "timeDay": 1646,
@@ -90,6 +95,7 @@
     "timeMonth": 706,
     "timeYear": 668,
     "dailyMinutesDown": {
+      "2022-03-16": 5,
       "2022-01-27": 33
     }
   },
@@ -98,18 +104,20 @@
     "url": "https://account.mojang.com/",
     "icon": "https://favicons.githubusercontent.com/account.mojang.com",
     "slug": "mojang-accounts-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 241,
     "timeDay": 205,
     "timeWeek": 289,
     "timeMonth": 263,
     "timeYear": 241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-16": 3
+    }
   },
   {
     "name": "Microsoft OAuth Server",
@@ -170,10 +178,10 @@
     "url": "https://api.minecraftservices.com/authentication/login_with_xbox",
     "icon": "https://favicons.githubusercontent.com/api.minecraftservices.com",
     "slug": "microsoft-minecraft-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 268,
@@ -182,6 +190,7 @@
     "timeMonth": 208,
     "timeYear": 268,
     "dailyMinutesDown": {
+      "2022-03-16": 2,
       "2022-01-18": 30,
       "2021-12-31": 18
     }
@@ -191,9 +200,9 @@
     "url": "https://api.minecraftservices.com/minecraft/profile",
     "icon": "https://favicons.githubusercontent.com/api.minecraftservices.com",
     "slug": "microsoft-minecraft-profile",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -203,6 +212,7 @@
     "timeMonth": 65,
     "timeYear": 107,
     "dailyMinutesDown": {
+      "2022-03-16": 0,
       "2022-01-18": 29,
       "2021-12-31": 18
     }
