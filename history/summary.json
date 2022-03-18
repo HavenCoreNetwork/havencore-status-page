@@ -83,9 +83,9 @@
     "url": "https://www.minecraft.net/en-us",
     "icon": "https://favicons.githubusercontent.com/www.minecraft.net",
     "slug": "minecraft-net-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.18%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.94%",
@@ -95,6 +95,7 @@
     "timeMonth": 725,
     "timeYear": 671,
     "dailyMinutesDown": {
+      "2022-03-18": 0,
       "2022-03-16": 83,
       "2022-01-27": 33
     }
