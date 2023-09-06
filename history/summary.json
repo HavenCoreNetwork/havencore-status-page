@@ -16,7 +16,7 @@
     "timeMonth": 107,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-09-06": 932,
+      "2023-09-06": 939,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
@@ -310,19 +310,19 @@
     "url": "https://authserver.mojang.com/",
     "icon": "https://icons.duckduckgo.com/ip3/authserver.mojang.com.ico",
     "slug": "mojang-authserver",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 721,
-    "timeWeek": 292,
-    "timeMonth": 237,
+    "timeDay": 515,
+    "timeWeek": 271,
+    "timeMonth": 233,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2023-09-06": 0
+      "2023-09-06": 6
     }
   },
   {
@@ -342,7 +342,7 @@
     "timeMonth": 119,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2023-09-06": 932,
+      "2023-09-06": 939,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
@@ -683,7 +683,7 @@
     "timeMonth": 211,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2023-09-06": 932,
+      "2023-09-06": 939,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
@@ -1060,14 +1060,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.33%",
+    "uptimeYear": "52.32%",
     "time": 250,
     "timeDay": 73,
     "timeWeek": 106,
     "timeMonth": 159,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-09-06": 933,
+      "2023-09-06": 939,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
@@ -1315,7 +1315,7 @@
     "timeMonth": 53,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2023-09-06": 933,
+      "2023-09-06": 939,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
