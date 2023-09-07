@@ -16,7 +16,7 @@
     "timeMonth": 107,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-09-07": 741,
+      "2023-09-07": 778,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
@@ -311,19 +311,19 @@
     "url": "https://authserver.mojang.com/",
     "icon": "https://icons.duckduckgo.com/ip3/authserver.mojang.com.ico",
     "slug": "mojang-authserver",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 231,
-    "timeDay": 5726,
-    "timeWeek": 2382,
-    "timeMonth": 846,
-    "timeYear": 257,
+    "timeDay": 4617,
+    "timeWeek": 2182,
+    "timeMonth": 827,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-09-07": 0
+      "2023-09-07": 37
     }
   },
   {
@@ -343,7 +343,7 @@
     "timeMonth": 115,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2023-09-07": 741,
+      "2023-09-07": 778,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
@@ -685,7 +685,7 @@
     "timeMonth": 205,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2023-09-07": 741,
+      "2023-09-07": 778,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
@@ -1062,14 +1062,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.09%",
+    "uptimeYear": "52.08%",
     "time": 249,
     "timeDay": 133,
     "timeWeek": 110,
     "timeMonth": 159,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-09-07": 741,
+      "2023-09-07": 778,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
@@ -1318,7 +1318,7 @@
     "timeMonth": 54,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2023-09-07": 741,
+      "2023-09-07": 778,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
