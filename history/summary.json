@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/session.minecraft.net.ico",
     "slug": "mojang-multiplayer-session-service",
     "status": "down",
-    "uptime": "57.34%",
+    "uptime": "57.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 115,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-09-17": 1235,
+      "2023-09-17": 1241,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
@@ -353,7 +353,7 @@
     "timeMonth": 127,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2023-09-17": 1236,
+      "2023-09-17": 1242,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
@@ -705,7 +705,7 @@
     "timeMonth": 202,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2023-09-17": 1236,
+      "2023-09-17": 1242,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
@@ -1089,7 +1089,7 @@
     "timeMonth": 157,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2023-09-17": 1236,
+      "2023-09-17": 1242,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
@@ -1318,19 +1318,19 @@
     "url": "https://xsts.auth.xboxlive.com/xsts/authorize",
     "icon": "https://icons.duckduckgo.com/ip3/xsts.auth.xboxlive.com.ico",
     "slug": "xbox-live-gatekeeper",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 256,
-    "timeWeek": 176,
-    "timeMonth": 230,
+    "timeDay": 261,
+    "timeWeek": 187,
+    "timeMonth": 231,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2023-09-17": 0
+      "2023-09-17": 6
     }
   },
   {
@@ -1350,7 +1350,7 @@
     "timeMonth": 54,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2023-09-17": 1236,
+      "2023-09-17": 1242,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
