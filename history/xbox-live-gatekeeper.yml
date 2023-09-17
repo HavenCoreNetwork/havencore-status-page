@@ -1,7 +1,7 @@
 url: https://xsts.auth.xboxlive.com/xsts/authorize
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-17T20:35:22.636Z
+status: up
+code: 405
+responseTime: 265
+lastUpdated: 2023-09-17T20:41:25.222Z
 startTime: 2021-10-22T17:42:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
