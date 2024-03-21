@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/session.minecraft.net.ico",
     "slug": "mojang-multiplayer-session-service",
     "status": "down",
-    "uptime": "45.33%",
+    "uptime": "45.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 112,
-    "timeDay": 27,
-    "timeWeek": 112,
-    "timeMonth": 144,
+    "timeDay": 109,
+    "timeWeek": 106,
+    "timeMonth": 145,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-03-20": 30,
+      "2024-03-21": 31,
+      "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -379,8 +380,7 @@
       "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
-      "2023-03-23": 1440,
-      "2023-03-22": 1440
+      "2023-03-23": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/authserver.mojang.com.ico",
     "slug": "mojang-authserver",
     "status": "down",
-    "uptime": "89.56%",
+    "uptime": "89.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "74.88%",
+    "uptimeYear": "74.60%",
     "time": 264,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 116,
+    "timeMonth": 106,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2024-03-20": 30,
+      "2024-03-21": 31,
+      "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -502,18 +503,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/textures.minecraft.net.ico",
     "slug": "minecraft-skins",
     "status": "down",
-    "uptime": "44.69%",
+    "uptime": "44.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 190,
-    "timeDay": 127,
+    "timeDay": 105,
     "timeWeek": 133,
-    "timeMonth": 156,
+    "timeMonth": 155,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2024-03-20": 30,
+      "2024-03-21": 31,
+      "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -876,8 +878,7 @@
       "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
-      "2023-03-23": 1440,
-      "2023-03-22": 1440
+      "2023-03-23": 1440
     }
   },
   {
@@ -892,8 +893,8 @@
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.89%",
     "time": 301,
-    "timeDay": 82,
-    "timeWeek": 172,
+    "timeDay": 77,
+    "timeWeek": 153,
     "timeMonth": 409,
     "timeYear": 320,
     "dailyMinutesDown": {
@@ -914,8 +915,7 @@
       "2023-05-09": 62,
       "2023-04-23": 26,
       "2023-04-07": 22,
-      "2023-03-28": 65,
-      "2023-03-22": 20
+      "2023-03-28": 65
     }
   },
   {
@@ -924,16 +924,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.minecraft.net.ico",
     "slug": "minecraft-net-website",
     "status": "up",
-    "uptime": "31.81%",
+    "uptime": "31.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "25.46%",
-    "time": 437,
-    "timeDay": 962,
-    "timeWeek": 724,
-    "timeMonth": 557,
-    "timeYear": 548,
+    "uptimeYear": "25.73%",
+    "time": 438,
+    "timeDay": 576,
+    "timeWeek": 714,
+    "timeMonth": 520,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2024-02-21": 31,
       "2023-12-17": 103,
@@ -1205,8 +1205,7 @@
       "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
-      "2023-03-23": 1440,
-      "2023-03-22": 1440
+      "2023-03-23": 1440
     }
   },
   {
@@ -1215,16 +1214,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/account.mojang.com.ico",
     "slug": "mojang-accounts-website",
     "status": "up",
-    "uptime": "68.49%",
+    "uptime": "68.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "25.03%",
-    "time": 286,
-    "timeDay": 333,
-    "timeWeek": 582,
-    "timeMonth": 502,
-    "timeYear": 291,
+    "uptimeYear": "25.30%",
+    "time": 287,
+    "timeDay": 715,
+    "timeWeek": 592,
+    "timeMonth": 485,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2024-02-21": 31,
       "2023-12-18": 936,
@@ -1497,8 +1496,7 @@
       "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
-      "2023-03-23": 1440,
-      "2023-03-22": 1440
+      "2023-03-23": 1440
     }
   },
   {
@@ -1513,10 +1511,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 350,
-    "timeWeek": 258,
-    "timeMonth": 179,
-    "timeYear": 212,
+    "timeDay": 99,
+    "timeWeek": 222,
+    "timeMonth": 181,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   },
   {
@@ -1531,8 +1529,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 100,
-    "timeWeek": 157,
+    "timeDay": 106,
+    "timeWeek": 133,
     "timeMonth": 162,
     "timeYear": 256,
     "dailyMinutesDown": {}
@@ -1549,10 +1547,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 108,
+    "timeDay": 103,
     "timeWeek": 120,
-    "timeMonth": 136,
-    "timeYear": 203,
+    "timeMonth": 135,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -1561,18 +1559,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.minecraftservices.com.ico",
     "slug": "microsoft-minecraft-api",
     "status": "down",
-    "uptime": "43.44%",
+    "uptime": "43.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 82,
-    "timeDay": 58,
-    "timeWeek": 71,
+    "timeDay": 35,
+    "timeWeek": 73,
     "timeMonth": 77,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2024-03-20": 30,
+      "2024-03-21": 32,
+      "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -1935,8 +1934,7 @@
       "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
-      "2023-03-23": 1440,
-      "2023-03-22": 1440
+      "2023-03-23": 1440
     }
   },
   {
@@ -1951,8 +1949,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 133,
-    "timeDay": 45,
-    "timeWeek": 64,
+    "timeDay": 26,
+    "timeWeek": 52,
     "timeMonth": 137,
     "timeYear": 140,
     "dailyMinutesDown": {
