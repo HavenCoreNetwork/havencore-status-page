@@ -11,12 +11,13 @@
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 111,
-    "timeDay": 54,
-    "timeWeek": 85,
-    "timeMonth": 134,
+    "timeDay": 145,
+    "timeWeek": 75,
+    "timeMonth": 131,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-03-28": 1372,
+      "2024-03-29": 30,
+      "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
@@ -379,8 +380,7 @@
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
-      "2023-03-31": 1440,
-      "2023-03-30": 1440
+      "2023-03-31": 1440
     }
   },
   {
@@ -393,14 +393,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "72.43%",
+    "uptimeYear": "72.41%",
     "time": 265,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 291,
+    "timeYear": 292,
     "dailyMinutesDown": {
-      "2024-03-28": 1372,
+      "2024-03-29": 30,
+      "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
@@ -510,18 +511,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/textures.minecraft.net.ico",
     "slug": "minecraft-skins",
     "status": "down",
-    "uptime": "44.24%",
+    "uptime": "44.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
-    "time": 190,
-    "timeDay": 59,
-    "timeWeek": 94,
-    "timeMonth": 126,
+    "time": 191,
+    "timeDay": 333,
+    "timeWeek": 117,
+    "timeMonth": 125,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2024-03-28": 1372,
+      "2024-03-29": 30,
+      "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
@@ -884,8 +886,7 @@
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
-      "2023-03-31": 1440,
-      "2023-03-30": 1440
+      "2023-03-31": 1440
     }
   },
   {
@@ -895,17 +896,16 @@
     "slug": "mojang-s-public-api",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.89%",
     "time": 283,
-    "timeDay": 93,
+    "timeDay": 116,
     "timeWeek": 141,
     "timeMonth": 313,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2024-03-28": 7,
       "2024-03-27": 15,
       "2024-03-26": 77,
       "2024-03-25": 15,
@@ -938,12 +938,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.91%",
-    "time": 446,
-    "timeDay": 465,
-    "timeWeek": 631,
-    "timeMonth": 570,
-    "timeYear": 559,
+    "uptimeYear": "27.93%",
+    "time": 447,
+    "timeDay": 773,
+    "timeWeek": 638,
+    "timeMonth": 577,
+    "timeYear": 561,
     "dailyMinutesDown": {
       "2024-02-21": 31,
       "2023-12-17": 103,
@@ -1207,8 +1207,7 @@
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
-      "2023-03-31": 1440,
-      "2023-03-30": 1440
+      "2023-03-31": 1440
     }
   },
   {
@@ -1217,16 +1216,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/account.mojang.com.ico",
     "slug": "mojang-accounts-website",
     "status": "up",
-    "uptime": "68.80%",
+    "uptime": "68.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.48%",
+    "uptimeYear": "27.49%",
     "time": 290,
-    "timeDay": 560,
-    "timeWeek": 556,
-    "timeMonth": 512,
-    "timeYear": 300,
+    "timeDay": 540,
+    "timeWeek": 530,
+    "timeMonth": 521,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2024-02-21": 31,
       "2023-12-18": 936,
@@ -1491,8 +1490,7 @@
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
-      "2023-03-31": 1440,
-      "2023-03-30": 1440
+      "2023-03-31": 1440
     }
   },
   {
@@ -1507,8 +1505,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 27,
-    "timeWeek": 131,
+    "timeDay": 150,
+    "timeWeek": 105,
     "timeMonth": 181,
     "timeYear": 207,
     "dailyMinutesDown": {}
@@ -1525,10 +1523,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 150,
-    "timeWeek": 220,
+    "timeDay": 162,
+    "timeWeek": 171,
     "timeMonth": 171,
-    "timeYear": 254,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   },
   {
@@ -1543,10 +1541,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 35,
-    "timeWeek": 144,
-    "timeMonth": 129,
-    "timeYear": 201,
+    "timeDay": 119,
+    "timeWeek": 111,
+    "timeMonth": 128,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   },
   {
@@ -1561,12 +1559,13 @@
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 81,
-    "timeDay": 55,
-    "timeWeek": 61,
-    "timeMonth": 77,
+    "timeDay": 29,
+    "timeWeek": 59,
+    "timeMonth": 78,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2024-03-28": 1372,
+      "2024-03-29": 31,
+      "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
@@ -1929,8 +1928,7 @@
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
-      "2023-03-31": 1440,
-      "2023-03-30": 1440
+      "2023-03-31": 1440
     }
   },
   {
@@ -1945,8 +1943,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 133,
-    "timeDay": 85,
-    "timeWeek": 69,
+    "timeDay": 120,
+    "timeWeek": 72,
     "timeMonth": 138,
     "timeYear": 140,
     "dailyMinutesDown": {
