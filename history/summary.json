@@ -16,7 +16,7 @@
     "timeMonth": 101,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-07-02": 1283,
+      "2024-07-02": 1296,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
@@ -393,14 +393,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "46.15%",
+    "uptimeYear": "46.14%",
     "time": 284,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2024-07-02": 1283,
+      "2024-07-02": 1296,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
@@ -617,7 +617,7 @@
     "timeMonth": 137,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2024-07-02": 1283,
+      "2024-07-02": 1296,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
@@ -1460,19 +1460,19 @@
     "url": "https://xsts.auth.xboxlive.com/xsts/authorize",
     "icon": "https://icons.duckduckgo.com/ip3/xsts.auth.xboxlive.com.ico",
     "slug": "xbox-live-gatekeeper",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 147,
-    "timeWeek": 98,
-    "timeMonth": 159,
+    "timeDay": 116,
+    "timeWeek": 93,
+    "timeMonth": 156,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2024-07-02": 0
+      "2024-07-02": 13
     }
   },
   {
@@ -1492,7 +1492,7 @@
     "timeMonth": 107,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-07-02": 1283,
+      "2024-07-02": 1296,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
