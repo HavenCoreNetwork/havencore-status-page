@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/session.minecraft.net.ico",
     "slug": "mojang-multiplayer-session-service",
     "status": "down",
-    "uptime": "32.34%",
+    "uptime": "32.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 114,
-    "timeDay": 151,
+    "timeDay": 163,
     "timeWeek": 154,
-    "timeMonth": 112,
-    "timeYear": 116,
+    "timeMonth": 110,
+    "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-03-08": 34,
+      "2025-03-09": 38,
+      "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -379,8 +380,7 @@
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
-      "2024-03-10": 1440,
-      "2024-03-09": 1440
+      "2024-03-10": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/authserver.mojang.com.ico",
     "slug": "mojang-authserver",
     "status": "down",
-    "uptime": "63.91%",
+    "uptime": "63.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-08": 35,
+      "2025-03-09": 38,
+      "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -763,8 +764,7 @@
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
-      "2024-03-10": 1440,
-      "2024-03-09": 1440
+      "2024-03-10": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/textures.minecraft.net.ico",
     "slug": "minecraft-skins",
     "status": "down",
-    "uptime": "31.89%",
+    "uptime": "31.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 165,
-    "timeDay": 313,
-    "timeWeek": 210,
-    "timeMonth": 161,
+    "time": 164,
+    "timeDay": 134,
+    "timeWeek": 197,
+    "timeMonth": 160,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-03-08": 35,
+      "2025-03-09": 38,
+      "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -1147,8 +1148,7 @@
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
-      "2024-03-10": 1440,
-      "2024-03-09": 1440
+      "2024-03-10": 1440
     }
   },
   {
@@ -1161,12 +1161,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 344,
-    "timeDay": 397,
-    "timeWeek": 223,
+    "timeDay": 310,
+    "timeWeek": 248,
     "timeMonth": 363,
-    "timeYear": 332,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2024-12-15": 20,
       "2024-11-16": 32,
@@ -1207,8 +1207,7 @@
       "2024-03-27": 15,
       "2024-03-26": 77,
       "2024-03-25": 15,
-      "2024-03-10": 34,
-      "2024-03-09": 47
+      "2024-03-10": 34
     }
   },
   {
@@ -1217,16 +1216,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.minecraft.net.ico",
     "slug": "minecraft-net-website",
     "status": "up",
-    "uptime": "51.34%",
+    "uptime": "51.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 919,
-    "timeDay": 612,
-    "timeWeek": 516,
-    "timeMonth": 675,
-    "timeYear": 860,
+    "time": 918,
+    "timeDay": 438,
+    "timeWeek": 557,
+    "timeMonth": 670,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2024-08-27": 31
     }
@@ -1237,16 +1236,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/account.mojang.com.ico",
     "slug": "mojang-accounts-website",
     "status": "up",
-    "uptime": "77.51%",
+    "uptime": "77.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 699,
-    "timeDay": 116,
-    "timeWeek": 257,
-    "timeMonth": 443,
-    "timeYear": 716,
+    "timeDay": 117,
+    "timeWeek": 230,
+    "timeMonth": 415,
+    "timeYear": 715,
     "dailyMinutesDown": {
       "2024-10-23": 17,
       "2024-08-27": 31,
@@ -1264,11 +1263,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 364,
-    "timeWeek": 166,
+    "time": 196,
+    "timeDay": 171,
+    "timeWeek": 182,
     "timeMonth": 182,
-    "timeYear": 203,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -1283,8 +1282,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 141,
-    "timeWeek": 130,
+    "timeDay": 145,
+    "timeWeek": 133,
     "timeMonth": 170,
     "timeYear": 192,
     "dailyMinutesDown": {}
@@ -1301,8 +1300,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 169,
-    "timeDay": 124,
-    "timeWeek": 128,
+    "timeDay": 119,
+    "timeWeek": 130,
     "timeMonth": 117,
     "timeYear": 166,
     "dailyMinutesDown": {
@@ -1316,18 +1315,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.minecraftservices.com.ico",
     "slug": "microsoft-minecraft-api",
     "status": "down",
-    "uptime": "30.99%",
+    "uptime": "30.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 84,
-    "timeDay": 56,
-    "timeWeek": 73,
-    "timeMonth": 72,
-    "timeYear": 80,
+    "timeDay": 53,
+    "timeWeek": 64,
+    "timeMonth": 73,
+    "timeYear": 79,
     "dailyMinutesDown": {
-      "2025-03-08": 35,
+      "2025-03-09": 38,
+      "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -1690,8 +1690,7 @@
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
-      "2024-03-10": 1440,
-      "2024-03-09": 1440
+      "2024-03-10": 1440
     }
   },
   {
@@ -1706,9 +1705,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 96,
-    "timeDay": 118,
-    "timeWeek": 128,
-    "timeMonth": 104,
+    "timeDay": 145,
+    "timeWeek": 136,
+    "timeMonth": 103,
     "timeYear": 95,
     "dailyMinutesDown": {
       "2024-06-11": 18,
