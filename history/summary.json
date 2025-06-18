@@ -16,7 +16,7 @@
     "timeMonth": 117,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-06-18": 711,
+      "2025-06-18": 718,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-18": 711,
+      "2025-06-18": 718,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 170,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2025-06-18": 711,
+      "2025-06-18": 718,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 208,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2025-06-18": 711,
+      "2025-06-18": 718,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
@@ -1370,7 +1370,7 @@
     "timeMonth": 100,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2025-06-18": 711,
+      "2025-06-18": 718,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
@@ -1742,19 +1742,19 @@
     "url": "https://api.minecraftservices.com/minecraft/profile",
     "icon": "https://icons.duckduckgo.com/ip3/api.minecraftservices.com.ico",
     "slug": "microsoft-minecraft-profile",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 28,
-    "timeWeek": 77,
-    "timeMonth": 104,
+    "timeDay": 36,
+    "timeWeek": 75,
+    "timeMonth": 103,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-06-18": 0
+      "2025-06-18": 7
     }
   }
 ]
