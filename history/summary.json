@@ -16,7 +16,7 @@
     "timeMonth": 96,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2026-06-10": 830,
+      "2026-06-10": 1010,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/authserver.mojang.com.ico",
     "slug": "mojang-authserver",
     "status": "down",
-    "uptime": "46.55%",
+    "uptime": "46.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-10": 830,
+      "2026-06-10": 1010,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/textures.minecraft.net.ico",
     "slug": "minecraft-skins",
     "status": "down",
-    "uptime": "23.23%",
+    "uptime": "23.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -784,7 +784,7 @@
     "timeMonth": 157,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2026-06-10": 830,
+      "2026-06-10": 1010,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 115,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2026-06-10": 830,
+      "2026-06-10": 1010,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -1642,7 +1642,7 @@
     "timeMonth": 44,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2026-06-10": 831,
+      "2026-06-10": 1010,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -2014,16 +2014,16 @@
     "url": "https://api.minecraftservices.com/minecraft/profile",
     "icon": "https://icons.duckduckgo.com/ip3/api.minecraftservices.com.ico",
     "slug": "microsoft-minecraft-profile",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "87.52%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.86%",
     "time": 112,
-    "timeDay": 25,
-    "timeWeek": 39,
-    "timeMonth": 57,
+    "timeDay": 41,
+    "timeWeek": 43,
+    "timeMonth": 58,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2025-06-19": 23,
@@ -2034,7 +2034,7 @@
       "2025-07-03": 22,
       "2025-10-29": 345,
       "2026-01-25": 17,
-      "2026-06-10": 1
+      "2026-06-10": 180
     }
   }
 ]
