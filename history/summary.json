@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/session.minecraft.net.ico",
     "slug": "mojang-multiplayer-session-service",
     "status": "down",
-    "uptime": "21.43%",
+    "uptime": "21.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 128,
-    "timeDay": 98,
-    "timeWeek": 144,
+    "timeDay": 172,
+    "timeWeek": 141,
     "timeMonth": 103,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2026-11-25": 355,
+      "2026-11-26": 347,
+      "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -379,8 +380,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 1440,
-      "2025-11-26": 1440
+      "2025-11-27": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/authserver.mojang.com.ico",
     "slug": "mojang-authserver",
     "status": "down",
-    "uptime": "42.35%",
+    "uptime": "42.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-25": 356,
+      "2026-11-26": 348,
+      "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -763,8 +764,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 1440,
-      "2025-11-26": 1440
+      "2025-11-27": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/textures.minecraft.net.ico",
     "slug": "minecraft-skins",
     "status": "down",
-    "uptime": "21.13%",
+    "uptime": "21.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 200,
-    "timeDay": 196,
-    "timeWeek": 224,
-    "timeMonth": 162,
+    "timeDay": 85,
+    "timeWeek": 193,
+    "timeMonth": 156,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2026-11-25": 356,
+      "2026-11-26": 348,
+      "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -1147,8 +1148,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 1440,
-      "2025-11-26": 1440
+      "2025-11-27": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.mojang.com.ico",
     "slug": "mojang-s-public-api",
     "status": "down",
-    "uptime": "68.04%",
+    "uptime": "68.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 205,
-    "timeDay": 111,
-    "timeWeek": 159,
+    "timeDay": 205,
+    "timeWeek": 147,
     "timeMonth": 447,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2026-11-25": 356,
+      "2026-11-26": 348,
+      "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -1531,8 +1532,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 1440,
-      "2025-11-26": 1440
+      "2025-11-27": 1440
     }
   },
   {
@@ -1541,14 +1541,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.minecraft.net.ico",
     "slug": "minecraft-net-website",
     "status": "up",
-    "uptime": "67.76%",
+    "uptime": "67.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 202,
-    "timeWeek": 234,
+    "timeDay": 170,
+    "timeWeek": 223,
     "timeMonth": 227,
     "timeYear": 275,
     "dailyMinutesDown": {}
@@ -1564,11 +1564,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 357,
-    "timeWeek": 321,
-    "timeMonth": 367,
-    "timeYear": 332,
+    "time": 333,
+    "timeDay": 752,
+    "timeWeek": 383,
+    "timeMonth": 378,
+    "timeYear": 334,
     "dailyMinutesDown": {}
   },
   {
@@ -1583,10 +1583,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 286,
-    "timeWeek": 248,
-    "timeMonth": 203,
-    "timeYear": 188,
+    "timeDay": 377,
+    "timeWeek": 250,
+    "timeMonth": 204,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   },
   {
@@ -1601,8 +1601,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 224,
-    "timeWeek": 168,
+    "timeDay": 23,
+    "timeWeek": 163,
     "timeMonth": 100,
     "timeYear": 128,
     "dailyMinutesDown": {}
@@ -1619,10 +1619,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 159,
-    "timeWeek": 117,
+    "timeDay": 19,
+    "timeWeek": 116,
     "timeMonth": 73,
-    "timeYear": 93,
+    "timeYear": 92,
     "dailyMinutesDown": {}
   },
   {
@@ -1631,18 +1631,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.minecraftservices.com.ico",
     "slug": "microsoft-minecraft-api",
     "status": "down",
-    "uptime": "20.54%",
+    "uptime": "20.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 68,
-    "timeDay": 68,
-    "timeWeek": 41,
+    "timeDay": 15,
+    "timeWeek": 38,
     "timeMonth": 26,
     "timeYear": 66,
     "dailyMinutesDown": {
-      "2026-11-25": 356,
+      "2026-11-26": 348,
+      "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -2005,8 +2006,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 1440,
-      "2025-11-26": 1440
+      "2025-11-27": 1440
     }
   },
   {
@@ -2021,8 +2021,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 94,
-    "timeDay": 97,
-    "timeWeek": 112,
+    "timeDay": 73,
+    "timeWeek": 111,
     "timeMonth": 62,
     "timeYear": 70,
     "dailyMinutesDown": {
